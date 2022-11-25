@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&family=Inter&family=Noto+Sans+Khmer&family=Open+Sans:ital@1&family=Poppins:wght@300&family=Roboto+Serif:opsz,wght@8..144,100;8..144,200&family=Ubuntu:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&family=Inter&family=Kantumruy+Pro:wght@700&family=Noto+Sans+Khmer&family=Open+Sans:ital@1&family=Poppins:wght@300&family=Roboto+Serif:opsz,wght@8..144,100;8..144,200&family=Ubuntu:ital@1&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #312E32;
+    font-family: 'Noto Sans Khmer', sans-serif;
+}
+
+#hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 82px;
+    margin-top: 62px;
+    margin-right: 56px;
+}
+
+.signin {
+    display: flex;
+    align-items: center;
+}
+
+.signin li {
+    margin-right: 38px;
+}
+
+.login {
+    height: 50px;
+    width: 135px;
+    border-radius: 51px;
+    font-weight: 400;
+    font-size: 15px;
+    color: yellow;
+    border: 3px solid #FFD600;
+}
+
+.subscribe {
+    height: 50px;
+    width: 160px;
+    border: 3px solid #FFD600;
+    border-radius: 51px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    color: #FFD600;
+    margin-left: 38px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    margin-left: 186px;
+    margin-right: 116px;
+}
+
+nav li {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    font-style: 'Khmer';
+    list-style: none;
+    margin-right: 88px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    margin-top: 64px;
+    margin-left: 54px;
+}
+
+.heading {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: 700;
+    font-size: 70px;
+    width: 922px;
+    height: 232px;
+    color: #FFFFFF;
+    line-height: 110px;
+}
+
+.content {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #EDE9E9;
+    width: 688px;
+    height: 39px;
+}
+
+.Maintext {
+    margin-bottom: 62px;
+}
+
+.listen {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 108px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    width: 220px;
+    height: 79px;
+    background: #FAE103;
+    border-radius: 162px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: center;
+}
+
+.play {
+    background: #FAE103;
+    margin-left: 16px;
+}
+
+.btn {
+    margin-bottom: 82px;
+    margin-left: 52px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    margin-left: 52px;
+    margin-bottom: 86px;
+}
+
+.listening {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    margin-left: 20px;
+}
+
+.company {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.company li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.sponsor {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+
+.exit {
+    margin-left: 52px;
+}
+
+.disney {
+    margin-left: 82px;
+}
+
+.imagediv {
+    margin-right: 38px;
+}
+
+.girlimg {
+    height: 600px;
+    width: 522px;
+}
+
+
+/* .showimage {
+    margin-bottom: 48px;
+} */
+
+.top {
+    color: #FFD600;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 38px;
+}
+
+.picks {
+    width: 500px;
+    height: 220px
+}
